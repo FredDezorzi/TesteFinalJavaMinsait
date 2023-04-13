@@ -94,7 +94,8 @@ Este projeto foi desenvolvido por Frederico Costa do Nascimento Dezorzi. Entre e
 - LinkedIn: https://www.linkedin.com/in/frederico-costa-do-nascimento-dezorzi-529518182
 - GitHub: https://github.com/Fred
 
-
+## Agradecimentos
+Agradeço a Minsait por disponibilizar o teste e permitir o desenvolvimento deste projeto.
 
 
 
