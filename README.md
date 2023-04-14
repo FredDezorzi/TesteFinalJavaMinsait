@@ -31,7 +31,7 @@ Para executar este projeto, é necessário ter instalado:
 Este projeto pode ser utilizado através de chamadas HTTPS. A seguir, estão listadas as instruções para cada uma das chamadas suportadas pela API, juntamente com uma descrição do que cada uma delas faz:
 
 - POST: cadastra um cliente (a formatação nos atributos cpf, telefone e cep é obrigatória): " http://localhost:8080/api/v1/empresa/clientes "
-- 
+
 Exemplo de JSON:
 ```json  
 
